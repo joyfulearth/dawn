@@ -1,0 +1,12 @@
+#key	value
+name	AmadeusWeb | World
+byline	An Internet of Missions
+safeName	amadeuswebworld
+iconName	World
+footer-message	[For Information from and Activity supporting various "Movements In Unison."](%urlOf-world%missions/)
+siteMenuName	World
+mediakit	?content=DDCAAC
+sections	whois, missions
+local-url	http://localhost/dawn/world/
+live-url	https://amadeusweb.world/
+year	2025
