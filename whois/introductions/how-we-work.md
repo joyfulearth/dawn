@@ -1,6 +1,6 @@
 ## Our Strong Suit
 
-AmadeusWeb Builder, while not WYSIWYG / login online and change - for very [compelling reasons](#todo), is extremely strong on
+AmadeusWeb Builder, while not WYSIWYG / login online and change - for very [compelling reasons](#todo), is extremely strong on<br /><br />
 
 * flexibility & adaptability
 * develop different tasks on different machines (sync process is same as used for code in the IT industry).
