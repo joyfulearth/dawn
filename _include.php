@@ -1,6 +1,6 @@
 <?php
 if (nodeIs(SITEHOME))
-	variable('welcome-message', replaceItems('We are building an' . NEWLINE .
+	variable(VARWelcomeMessage, replaceItems('We are building an' . NEWLINE .
 	'[**offline first**](%offline-first%) ' . NEWLINE .
 	'[**INTENT Driven**](%intent-driven%) ' . NEWLINE .
 	'[Internet of Missions](%internet-of-m%) ' . NEWLINE .

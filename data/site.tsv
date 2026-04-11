@@ -1,12 +1,13 @@
 #key	value
-name	AmadeusWeb.world
+name	AmadeusWeb's Oases
 byline	Simplified Spiritual Tech.
 safeName	amadeuswebworld
-iconName	AmadeusWeb.world
+iconName	Oases by DAWN
 footer-message	Heralding a NEW DAWN&hellip;
 siteMenuName	World
 mediakit	?content=DDCAAC&heading=D5F3FF
 sections	whois, missions
-local-url	http://localhost/dawn/world/
-live-url	https://amadeusweb.world/
+local-url	http://localhost/oases/
+live-url	https://amadeusweb.world/oases/
+showIn	authors
 year	2025
